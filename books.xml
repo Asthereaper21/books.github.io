@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="books.css"?>
+
+<books>
+	<book>
+		<title>Kamasutra</title>
+		<author>desconocido</author>
+		<publisher>Trilla</publisher>
+		<price>$300.00</price>
+		<contentType>Educativo</contentType>
+		<isbn>123456789</isbn>
+	</book>
+
+	<book>
+<title>LA GUIA DEL LIGUE</title>
+	    <author>GABRIEL MONTIEL</author>
+	    <publisher>CDMX &amp; Co.</publisher>
+	    <price>$1219</price>
+	    <contentType>GUIA</contentType>
+	    <isbn>212332</isbn>
+	</book>
+	
+	<book>
+	    <title>LUNA DE PLUTON</title>
+	    <author>DROSS ROKZAN</author>
+	    <publisher>CHILE</publisher>
+	    <price>9.99</price>
+	    <contentType>FICCIÓN</contentType>
+	    <isbn>93243254564</isbn>
+	</book>
+	
+	<book>
+	    <title>IT</title>
+	    <author>STHEPHEN KING</author>
+	    <publisher>NOSE</publisher>
+	    <price>1500</price>
+	    <contentType>Fantasy</contentType>
+	    <isbn>12948823</isbn>
+	</book>
+
+	<book>
+	    <title>SPIDER-MAM</title>
+	    <author>STAN LEE</author>
+	    <publisher>MARVEL'S COMIC</publisher>
+	    <price>10.99</price>
+	    <contentType>Fiction</contentType>
+	    <isbn>9233242</isbn>
+	</book>
+</books>
